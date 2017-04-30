@@ -1,6 +1,7 @@
 {
   "name": "starter",
   "version": "0.1.0",
+  "description": "boilerplate for a react app.",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
